@@ -1,0 +1,91 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,200;1,500&family=Noto+Serif&family=Poppins:ital,wght@1,100&family=Quicksand:wght@600&family=Raleway:ital,wght@0,500;1,500&family=Roboto:ital,wght@0,700;0,900;1,400&display=swap");
+body {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Noto Serif", serif;
+  font-family: "Poppins", sans-serif;
+  font-family: "Quicksand", sans-serif;
+  font-family: "Raleway", sans-serif;
+  font-family: "Roboto", sans-serif;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.navbar-brand {
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 50px;
+}
+.navbar-brand span {
+  color: #F46A06;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  font-size: 15px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  color: #F46A06;
+}
+
+li.nav-item.ms-lg-3.btn.btn-warning {
+  background-color: #F46A06;
+}
+
+i.bi.bi-bag-check-fill {
+  padding-left: 12px;
+}
+
+i.bi.bi-arrow-right {
+  padding-left: 12px;
+}
+
+.counter {
+  background: #F46A06;
+  color: #fff;
+}
+.counter i {
+  font-size: 78px;
+}
+
+.leaf {
+  position: absolute;
+  top: -200px;
+  right: -50px;
+}
+
+.quote {
+  background: url(../images/bg.jpg);
+}
+
+.testimonials {
+  background-color: #F46A06;
+}
+
+.owl-carousel {
+  background: white;
+  padding: 50px;
+  max-width: 70%;
+  margin: auto;
+}
+
+i.bi.bi-three-dots {
+  color: #F46A06;
+  font-size: 42px;
+}
+
+footer {
+  background: #F46A06;
+  color: #fff;
+}
+footer ul {
+  list-style: none;
+}/*# sourceMappingURL=style.css.map */
